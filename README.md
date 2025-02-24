@@ -40,17 +40,7 @@ The Advice API App is a simple React-based web application that fetches random p
    ```
    http://localhost:3000
    ```
-## **Project Structure 📂🏗️📌**
-    AdviceAPI/
-    │── src/
-    │   │── components/
-    │   │   ├── AdviceApi.js  # Main component fetching and displaying advice
-    │   │── styles/
-    │   │   ├── AdviceApi.css  # Styling for the component
-    │── public/
-    │── package.json
-    │── README.md
-
+   
 ## **How It Works 🤖📡🔄**
 
 ### 1.  **Fetching Advice:**
